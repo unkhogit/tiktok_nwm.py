@@ -1,0 +1,11 @@
+# Core extraction engine (keeps up with TikTok backend changes)
+yt-dlp>=2025.01.01
+
+# Handles browser-like network requests for pre-extraction validation
+requests>=2.31.0
+
+# Optional: For building a CLI or colorized terminal output
+colorama>=0.4.6
+
+# Install requirements.txt using Python (Git Bash CMD only)
+pip install -r requirements.txt
